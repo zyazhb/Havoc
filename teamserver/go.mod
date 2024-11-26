@@ -21,8 +21,8 @@ require (
 	github.com/spf13/cobra v1.2.1
 	github.com/zclconf/go-cty v1.9.0
 	golang.org/x/crypto v0.0.0-20220314234659-1baeb1ce4c0b
-	golang.org/x/image v0.5.0
-	golang.org/x/text v0.7.0
+	golang.org/x/image v0.18.0
+	golang.org/x/text v0.16.0
 )
 
 require (
